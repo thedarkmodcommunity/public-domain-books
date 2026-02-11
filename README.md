@@ -4,6 +4,8 @@ Authors: Amadeus and Bikerdude
 
 ![alt text](preview.jpg "preview")
 
+## Download [here](https://github.com/thedarkmodcommunity/public-domain-books/releases/download/v1.0/book_skins.pk4).
+
 All of these books are over 70 years old, some over 150, all of which are Public Domain and/or Creative Commons
 
 pd1-17 - https://publicdomainreview.org/collection/
