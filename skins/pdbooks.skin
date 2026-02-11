@@ -1,0 +1,171 @@
+
+skin pdbook1
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook1"
+}
+
+skin pdbook2
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook2"
+}
+
+skin pdbook3
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook3"
+}
+
+skin pdbook7
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook7"
+}
+
+skin pdbook8
+{
+	model "models/darkmod/readables/book_red1.lwo"
+
+	"book_red1" "pdbook8"
+}
+
+skin pdbook9
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook9"
+}
+
+skin pdbook10
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook10"
+}
+
+skin pdbook12
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook12"
+}
+
+skin pdbook13
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook13"
+}
+
+skin pdbook14
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook14"
+}
+
+
+skin pdbook16
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook16"
+}
+
+skin pdbook17
+{
+	model "models/darkmod/readables/book_red1.lwo"
+
+	"book_red1" "pdbook17"
+}
+
+skin pdbook18
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook18"
+}
+
+skin pdbook19
+{
+	model "models/darkmod/readables/book_red1.lwo"
+
+	"book_red1" "pdbook19"
+}
+
+skin pdbook21
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook21"
+}
+
+skin pdbook22
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook22"
+}
+
+skin pdbook23
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook23"
+}
+
+skin pdbook24
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" "pdbook24"
+}
+
+green_book
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" 	"green_book"
+}
+
+brown_gold_book
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" 	"brown_gold_book"
+}
+
+zaehnsdorf_1
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" 	"zaehnsdorf_1"
+}
+
+zaehnsdorf_2
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" 	"zaehnsdorf_2"
+}
+
+
+zaehnsdorf_3
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" 	"zaehnsdorf_3"
+}
+
+
+zaehnsdorf_4
+{
+	model "models/darkmod/readables/book_sp1.lwo"
+
+	"book_sp1" 	"zaehnsdorf_4"
+}

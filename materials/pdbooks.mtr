@@ -1,0 +1,360 @@
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook1
+{
+  qer_editorimage	models/darkmod/props/textures/pd1_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd1
+  bumpmap   		models/darkmod/props/textures/pd1_local
+   {
+		blend specularmap
+		map models/darkmod/props/textures/pd1_s
+		rgb .5
+	}  
+  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook2
+{
+  qer_editorimage	models/darkmod/props/textures/pd2_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd2
+  bumpmap   		models/darkmod/props/textures/pd2_local
+   {
+		blend specularmap
+		map models/darkmod/props/textures/pd2_s
+		rgb .5
+	}  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook3
+{
+  qer_editorimage	models/darkmod/props/textures/pd3_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd3
+  bumpmap   		models/darkmod/props/textures/pd3_local
+   {
+		blend specularmap
+		map models/darkmod/props/textures/pd3_s
+		rgb .2
+	}  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook7
+{
+  qer_editorimage	models/darkmod/props/textures/pd7_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd7
+  bumpmap   		models/darkmod/props/textures/pd7_local
+
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook8
+{
+  qer_editorimage	models/darkmod/props/textures/pd8_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd8
+  bumpmap   		models/darkmod/props/textures/pd8_local
+  
+  {
+		blend specularmap
+		map models/darkmod/props/textures/pd8_s
+		rgb .5
+	}  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook9
+{
+  qer_editorimage	models/darkmod/props/textures/pd9_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd9
+  bumpmap   		models/darkmod/props/textures/pd9_local
+//  specularmap  		models/darkmod/props/textures/pd9_s
+
+	{
+		blend specularmap
+		map models/darkmod/props/textures/pd9_s
+		rgb .5
+	} 
+  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook10
+{
+  qer_editorimage	models/darkmod/props/textures/pd10_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd10
+  bumpmap   		models/darkmod/props/textures/pd10_local
+//  specularmap  		models/darkmod/props/textures/pd10_s
+  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook12
+
+{
+  qer_editorimage	models/darkmod/props/textures/pd12_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd12
+  bumpmap   		models/darkmod/props/textures/pd12_local
+  specularmap  		models/darkmod/props/textures/pd12_s
+  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook13
+{
+  qer_editorimage	models/darkmod/props/textures/pd13_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd13
+  bumpmap   		models/darkmod/props/textures/pd13_local
+//  specularmap  		models/darkmod/props/textures/pd13_s
+  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook14
+{
+  qer_editorimage	models/darkmod/props/textures/pd14_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd14
+  bumpmap   		models/darkmod/props/textures/pd14_local
+  {
+		blend specularmap
+		map models/darkmod/props/textures/pd14_s
+		rgb .5
+	}  
+  specularmap  		models/darkmod/props/textures/pd14_s
+}
+
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook16
+{
+  qer_editorimage	models/darkmod/props/textures/pd16_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd16
+  bumpmap   		models/darkmod/props/textures/pd16_local
+//specularmap  		models/darkmod/props/textures/pd16_s
+  
+}
+
+// https://publicdomainreview.org/collection/the-art-of-book-covers-1820-1914/
+pdbook17
+{
+  qer_editorimage	models/darkmod/props/textures/pd17_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd17
+  bumpmap   		models/darkmod/props/textures/pd17_local
+  specularmap  		models/darkmod/props/textures/pd17_s
+  
+}
+
+// https://w.wiki/HfVf (Chroniques)
+pdbook18
+{
+  qer_editorimage	models/darkmod/props/textures/pd18_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd18
+  bumpmap   		models/darkmod/props/textures/pd18_local
+ {
+		blend specularmap
+		map models/darkmod/props/textures/pd18_s
+		rgb .8
+	}
+  
+
+}
+
+// https://w.wiki/HfVe (Agenoria)
+pdbook19
+{
+  qer_editorimage	models/darkmod/props/textures/pd19_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd19
+  bumpmap   		models/darkmod/props/textures/pd19_local
+//  specularmap  		models/darkmod/props/textures/pd19_s
+  
+}
+
+// https://archive.org/details/lastjournalsofda01livi (public domain)
+pdbook21
+{
+  qer_editorimage	models/darkmod/props/textures/pd21_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd21
+  bumpmap   		models/darkmod/props/textures/pd21_local
+//  specularmap  		models/darkmod/props/textures/pd21_s
+  
+}
+
+// https://w.wiki/HfVc (The_Dutch_in_the_Arctic_Seas)
+pdbook22
+{
+  qer_editorimage	models/darkmod/props/textures/pd22_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd22
+  bumpmap   		models/darkmod/props/textures/pd22_local
+ // specularmap  		models/darkmod/props/textures/pd22_s
+  
+}
+
+// https://w.wiki/HfVa (The home of the blizzard:Australasian Antarctic expedition)
+pdbook23
+{
+  qer_editorimage	models/darkmod/props/textures/pd23_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd23
+  bumpmap   		models/darkmod/props/textures/pd23_local
+//  specularmap  		models/darkmod/props/textures/pd23_s
+  
+}
+
+// https://archive.org/details/traitedelasculta02unse (public domain)
+pdbook24
+{
+  qer_editorimage	models/darkmod/props/textures/pd24_ed
+  surftype15
+  
+  diffusemap		models/darkmod/props/textures/pd24
+  bumpmap   		models/darkmod/props/textures/pd24_local
+//  specularmap  		models/darkmod/props/textures/pd24_s
+  
+}
+
+green_book
+// https://commons.wikimedia.org/wiki/File:Binding_by_Zaehnsdorf,_1896_(5513096339).jpg (public domain)
+{
+  wood
+	{
+		blend diffusemap
+		map models/darkmod/props/textures/green_book_d
+		rgb 1
+	}
+	
+	bumpmap		models/darkmod/props/textures/green_book_local
+	
+	{
+		blend specularmap
+		map models/darkmod/props/textures/green_book_s
+		rgb 1.5
+	}
+}
+
+brown_gold_book
+// https://commons.wikimedia.org/wiki/File:Binding_by_Zaehnsdorf,_1896.jpg (public domain)
+{
+  wood
+	{
+		blend diffusemap
+		map models/darkmod/props/textures/brown_gold_book_d
+		rgb 1
+	}
+	
+	bumpmap		models/darkmod/props/textures/brown_gold_book_local
+	
+	{
+		blend specularmap
+		map models/darkmod/props/textures/brown_gold_book_s
+		rgb 1.5
+	}
+}
+
+// https://commons.wikimedia.org/wiki/File:Bound_by_Zaehnsdorf,_1914._(19028867712) (public domain)
+zaehnsdorf_1
+{
+  wood
+	{
+		blend diffusemap
+		map models/darkmod/props/textures/zaehnsdorf_1
+		rgb 1
+	}
+	
+	bumpmap		models/darkmod/props/textures/zaehnsdorf_1_local
+	
+	{
+		blend specularmap
+		map models/darkmod/props/textures/zaehnsdorf_1_s
+		rgb 1
+	}
+}
+
+// https://commons.wikimedia.org/wiki/File:Bound_by_Zaehnsdorf,_1914_(18411851584) (public domain)
+zaehnsdorf_2
+{
+  wood
+	{
+		blend diffusemap
+		map models/darkmod/props/textures/zaehnsdorf_2
+		rgb 1
+	}
+	
+	bumpmap		models/darkmod/props/textures/zaehnsdorf_2_local
+	
+	{
+		blend specularmap
+		map models/darkmod/props/textures/zaehnsdorf_2_s
+		rgb 1.5
+	}
+}
+
+// https://commons.wikimedia.org/wiki/File:Bound_by_Zaehnsdorf,_1914_(19037522911) (public domain)
+zaehnsdorf_3
+{
+  wood
+	{
+		blend diffusemap
+		map models/darkmod/props/textures/zaehnsdorf_3
+		rgb 1
+	}
+	
+	bumpmap		models/darkmod/props/textures/zaehnsdorf_3_local
+	
+	{
+		blend specularmap
+		map models/darkmod/props/textures/zaehnsdorf_3_s
+		rgb 1
+	}
+}
+
+// https://commons.wikimedia.org/wiki/File:Bound_by_Zaehnsdorf,_1915._(19034402095) (public domain)
+zaehnsdorf_4
+{
+  wood
+	{
+		blend diffusemap
+		map models/darkmod/props/textures/zaehnsdorf_4
+		rgb 1
+	}
+	
+	bumpmap		models/darkmod/props/textures/zaehnsdorf_4_local
+	
+	{
+		blend specularmap
+		map models/darkmod/props/textures/zaehnsdorf_4_s
+		rgb 1.5
+	}
+}
